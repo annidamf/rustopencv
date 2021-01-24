@@ -1,0 +1,9 @@
+Annida Miftakhul F.
+07211840000030
+
+Project ini tidak berhasil dicompile ke wasm dikarenakan library
+opencv yang dipakai dalam project ini tidak compatible dengan
+wasm. Asumsi solusinya adalah menggunakan jenis library lain yang
+compatible dengan wasm atau merework keseluruhan project, menuliskannya
+dalam bahasa JS (JavaScript) supaya dapat diakses melalui browser.
+Tanpa wasm, project ini berjalan dengan baik.
